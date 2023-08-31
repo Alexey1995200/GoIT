@@ -1,0 +1,48 @@
+body{
+    background-color: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper{
+    background-color: white;
+    margin: 40px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.description{
+    background-color: none;
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+}
+
+.side{
+    background-color: #E0EBFE;
+}
+
+.userPhoto{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    max-width: 370px;
+    max-height: 370px;
+    min-width: 256px;
+    min-height: 256px;
+}
+
+.menu{
+    padding-left: 40px;
+}
+
+.menu div{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p{
+    color: gray;
+}
+
+ul, li{
+    color: #595959;
+}
